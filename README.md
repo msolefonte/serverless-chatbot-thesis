@@ -1,6 +1,6 @@
-# TFG - Implementación de un chatbot sobre una arquitectura serverless
+# Implementación de un chatbot sobre una arquitectura serverless
 
-My End-of-Degree project
+My bachelor degree thesis. Note that it is in Spanish.
 
 ## Code
 
