@@ -1,6 +1,6 @@
-# Implementación de un chatbot sobre una arquitectura serverless
+# Building a Chatbot with Serverless Computing
 
-My bachelor thesis, in Spanish.
+My bachelor thesis, in Spanish: _Implementación de un chatbot sobre una arquitectura serverless_. 
 
 ## Access
 
